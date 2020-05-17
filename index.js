@@ -1,6 +1,6 @@
 // Write your solution here!
-const pets=[]
+const pets=["Milo", "Otis", "Garfield"];
 pets.push("Odie");
-prepend.unshift("Odie");
-removeLast.pop();
-removeFirst.shift();
+pets.unshift("Odie");
+pets.pop();
+pets.shift();
