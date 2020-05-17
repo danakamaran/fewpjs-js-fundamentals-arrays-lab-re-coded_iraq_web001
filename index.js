@@ -1,5 +1,5 @@
 // Write your solution here!
-var pets=["Milo", "Otis", "Garfield"];
+let pets=["Milo", "Otis", "Garfield"];
 const append= pets.push('Odie');
 const prepend= pets.unshift("Odie");
 const removeLast= pets.pop();
